@@ -1,0 +1,16 @@
+h1 {
+    font-size: 30px;
+}
+
+#parent {
+    display: flex;
+}
+
+.contents {
+    margin: 0px 10px;
+}
+
+li::before {
+    content: '♡';
+    color:  pink;
+}
