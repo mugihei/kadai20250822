@@ -10,7 +10,26 @@ h1 {
     margin: 0px 10px;
 }
 
-li::before {
-    content: '♡';
-    color:  pink;
+
+#force {
+    position: relative;
 }
+
+.img {
+    position: absolute;
+   
+}
+
+.text {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+
+.text {
+    color: white;
+}
+
+
+
+
