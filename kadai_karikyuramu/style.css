@@ -1,0 +1,38 @@
+h1 {
+    font-size: 30px;
+}
+
+#parent {
+    display: flex;
+}
+
+.contents {
+    margin: 0px 10px;
+}
+
+
+#force {
+    position: relative;
+}
+
+
+.text {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+
+.text {
+    color: white;
+}
+
+
+li::before {
+    content: "♥";
+    color: pink;
+}
+
+li {
+    list-style-type: none;
+}
+
