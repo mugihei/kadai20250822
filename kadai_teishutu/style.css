@@ -1,0 +1,130 @@
+#first {
+    display: flex;
+    background-color:#FFFCF4;
+    width: 800px;
+    margin: 0 auto;
+    padding: 10px 30px;
+    gap: 20px;
+}
+
+.left {
+    width: 33%;
+}
+
+.left img {
+    border-radius: 10px;
+    width: 100%;
+}
+
+.center {
+    width: 33%;
+}
+
+.right {
+    width: 33%;
+}
+
+.second {
+    color: aqua;
+    font-size: 20px;
+}
+
+
+.third {
+    font-size: 15px;
+    background-color: aqua;
+}
+
+
+.force img {
+    border-radius: 10px;
+    width: 100%;
+}
+
+.six {
+    background-color: #6B99C0;
+    width:320px;
+    height: 50px;
+    border-radius: 50px;
+    margin: auto;
+}
+
+.six p {
+    color: white;
+    text-align: center;
+    padding-top: 11px;
+}
+
+.eight p {
+    font-weight: bold;
+}
+.box {
+    background-color: #F8EEEB;
+    width:320px;
+    height: 50px;
+    margin: auto;
+}
+
+.box p {
+   font-weight: bold; 
+   text-align: center;
+   padding-top: 11px;
+}
+
+#five {
+    display: flex;
+    margin: 0 auto;
+}
+
+.left2 {
+  width: 50%;
+   border: 2px solid #cc0000;
+}
+li::before {
+    content: "・";
+    color: red;
+}
+
+li {
+    list-style-type: none;
+    margin: 0 -40px;
+}
+
+.ten {
+    background-color: #C692A1;
+    width:320px;
+    height: 50px;
+    border-radius: 50px;
+    margin: auto;
+}
+
+.ten p {
+    color: white;
+    text-align: center;
+    padding-top: 11px;
+}
+
+.eleven p {
+    font-weight: bold;
+}
+
+.box2 {
+   background-color: #F8EEEB;
+   width:320px;
+   height: 50px;
+   margin: auto;
+
+}
+
+.box2 p {
+   font-weight: bold; 
+   text-align: center;
+   padding-top: 11px;
+  
+}
+.right2 {
+    width: 50%;
+     border: 2px solid #cc0000;
+}
+
+
